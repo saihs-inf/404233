@@ -3,3 +3,7 @@ c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\De
 c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.Form1.resources
 c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.Properties.Resources.resources
 c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.csproj.GenerateResource.Cache
+c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\bin\Debug\winform.exe
+c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\bin\Debug\winform.pdb
+c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.exe
+c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.pdb

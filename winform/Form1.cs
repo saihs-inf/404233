@@ -20,6 +20,8 @@ namespace winform
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Hello world";
+
+            textBox1 .Text = "Hello world";
         }
     }
 }
