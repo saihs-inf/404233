@@ -1,0 +1,5 @@
+c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\bin\Debug\winform.exe.config
+c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.csprojResolveAssemblyReference.cache
+c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.Form1.resources
+c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.Properties.Resources.resources
+c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.csproj.GenerateResource.Cache
