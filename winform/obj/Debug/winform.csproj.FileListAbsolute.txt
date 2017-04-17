@@ -7,3 +7,10 @@ c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\bin\De
 c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\bin\Debug\winform.pdb
 c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.exe
 c:\users\inf2a-user\documents\visual studio 2015\Projects\winform\winform\obj\Debug\winform.pdb
+C:\Users\INF2A-user\Desktop\404233\winform\bin\Debug\winform.exe.config
+C:\Users\INF2A-user\Desktop\404233\winform\obj\Debug\winform.exe
+C:\Users\INF2A-user\Desktop\404233\winform\obj\Debug\winform.pdb
+C:\Users\INF2A-user\Desktop\404233\winform\obj\Debug\winform.csprojResolveAssemblyReference.cache
+C:\Users\INF2A-user\Desktop\404233\winform\obj\Debug\winform.Form1.resources
+C:\Users\INF2A-user\Desktop\404233\winform\obj\Debug\winform.Properties.Resources.resources
+C:\Users\INF2A-user\Desktop\404233\winform\obj\Debug\winform.csproj.GenerateResource.Cache

@@ -17,11 +17,15 @@ namespace winform
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
             label1.Text = "Hello world";
 
-            textBox1 .Text = "Hello world";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hell World~!")
         }
     }
 }
